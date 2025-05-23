@@ -1,0 +1,1 @@
+# paneles-solares-telemetria
