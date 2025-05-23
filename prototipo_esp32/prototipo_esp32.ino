@@ -12,12 +12,12 @@
 
 
 // Constantes para el WiFi:
-const char *ssid = "Zhone_F861";
-const char *password = "znid314350433";
+const char *ssid = "-";
+const char *password = "-";
 
 // Constantes para el broker MQTT
-const char *mqtt_broker = "192.168.1.226";
-const int   mqtt_port = 1883;
+const char *mqtt_broker = "-";
+const int   mqtt_port = 0;
 const char *mqtt_username = "";
 const char *mqtt_password = "";
 
